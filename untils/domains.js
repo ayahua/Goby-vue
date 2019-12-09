@@ -2,23 +2,23 @@ const domainsSH = {
   // test
   dev: {
     host: 'http://localhost:8083',
-    domain: 'http://dev.webuy.ai/api/sh',
-    assetsPublicPath: 'http://cdndaily.elephtribe.com/crm/blueHorse_branch/dev/build',
+    domain: 'http://dev.xxx.ai/api',
+    assetsPublicPath: 'http://xxx.com/crm/api',
   },
   daily: {
-    host: 'http://daily.qundian.elephtribe.com',
-    domain: 'http://daily.qundian.elephtribe.com/api',
-    assetsPublicPath: 'http://cdndaily.elephtribe.com/crm/sh-crm_branch/daily/build',
+    host: 'http://xxx.com',
+    domain: 'http://dev.xxx.ai/api',
+    assetsPublicPath: 'http://xxx.com/crm/api',
   },
   gray: {
-    host: 'http://gray.qundian.elephtribe.com',
-    domain: 'http://gray.qundian.elephtribe.com/api',
-    assetsPublicPath: 'http://cdndaily.elephtribe.com/crm/sh-crm_branch/gray/build',
+    host: 'http://xxx.com',
+    domain: 'http://dev.xxx.ai/api',
+    assetsPublicPath: 'http://xxx.com/crm/api',
   },
   online: {
-    host: 'http://qundian.elephtribe.com',
-    domain: 'http://qundian.elephtribe.com/api',
-    assetsPublicPath: 'http://cdn.elephtribe.com/crm/sh-crm/build',
+    host: 'http://xxx.com',
+    domain: 'http://dev.xxx.ai/api',
+    assetsPublicPath: 'http://xxx.com/crm/api',
   },
 };
 
@@ -26,46 +26,46 @@ const domainsZMC = {
   // test
   dev: {
     host: 'http://localhost:8083',
-    domain: 'http://dev.webuy.ai/api/sh',
-    assetsPublicPath: 'http://cdndaily.elephtribe.com/crm/blueHorse_branch/dev/build',
+    domain: 'http://dev.xxx.ai/api',
+    assetsPublicPath: 'http://xxx.com/crm/api',
   },
   daily: {
-    host: 'http://daily.qundian.elephtribe.com',
-    domain: 'http://daily.qundian.elephtribe.com/api',
-    assetsPublicPath: 'http://cdndaily.elephtribe.com/crm/zmc-crm_branch/daily/build',
+    host: 'http://xxx.com',
+    domain: 'http://dev.xxx.ai/api',
+    assetsPublicPath: 'http://xxx.com/crm/api',
   },
   gray: {
-    host: 'http://gray.qundian.elephtribe.com',
-    domain: 'http://gray.qundian.elephtribe.com/api',
-    assetsPublicPath: 'http://cdndaily.elephtribe.com/crm/zmc-crm_branch/gray/build',
+    host: 'http://xxx.com',
+    domain: 'http://dev.xxx.ai/api',
+    assetsPublicPath: 'http://xxx.com/crm/api',
   },
   online: {
-    host: 'http://qundian.elephtribe.com',
-    domain: 'http://qundian.elephtribe.com/api',
-    assetsPublicPath: 'http://cdn.elephtribe.com/crm/zmc-crm/build',
+    host: 'http://xxx.com',
+    domain: 'http://dev.xxx.ai/api',
+    assetsPublicPath: 'http://xxx.com/crm/api',
   },
 };
 
 const domainsHYK = {
-  dev: {
-    host: 'http://localhost:8083',
-    domain: 'http://dev.webuy.ai/api/hyk',
-    assetsPublicPath: 'http://cdndaily.elephtribe.com/crm/blueHorse_branch/dev/build',
+dev: {
+  host: 'http://localhost:8083',
+  domain: 'http://dev.xxx.ai/api',
+  assetsPublicPath: 'http://xxx.com/crm/api',
 },
 daily: {
-    host: 'http://daily.qundian.elephtribe.com',
-    domain: 'http://daily.qundian.elephtribe.com/api',
-    assetsPublicPath: 'http://cdndaily.elephtribe.com/crm/blueHorse_branch/daily/build',
+  host: 'http://xxx.com',
+  domain: 'http://dev.xxx.ai/api',
+  assetsPublicPath: 'http://xxx.com/crm/api',
 },
 gray: {
-    host: 'http://gray.qundian.elephtribe.com',
-    domain: 'http://gray.qundian.elephtribe.com/api',
-    assetsPublicPath: 'http://cdndaily.elephtribe.com/crm/blueHorse_branch/gray/build',
+  host: 'http://xxx.com',
+  domain: 'http://dev.xxx.ai/api',
+  assetsPublicPath: 'http://xxx.com/crm/api',
 },
 online: {
-    host: 'http://qundian.elephtribe.com',
-    domain: 'http://qundian.elephtribe.com/api',
-    assetsPublicPath: 'http://cdn.elephtribe.com/crm/blueHorse/current/build',
+  host: 'http://xxx.com',
+  domain: 'http://dev.xxx.ai/api',
+  assetsPublicPath: 'http://xxx.com/crm/api',
 },
 };
 
